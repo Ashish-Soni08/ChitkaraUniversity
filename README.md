@@ -8,7 +8,16 @@ ASHISH.docx	                            	Final Training Report
 
 Cloudbigdataanalytics.docx	            	Research Paper 
 
-Data Analysis.pptx                      	Final Presenatation
+Data Analysis.pptx                      	Final Project Presenatation
+
+Data Analysis Project using R:
+
+Team Memebers: Ashish Soni and Alisha Mehta
+
+Source of Data :The Heart Disease dataset (South Africa) 
+
+Task: Find out how age and habits of a person can lead to the risk of a heart disease.
+
 
 
 
@@ -21,9 +30,9 @@ Big Data-research paper.docx	                            Research paper for a co
 
 Big Data.pptx	                                            Presentation for the conference
 
-TECHNOLOGICAL REVOLUTION IN WOFSPORTS.docx	            Article 
+TECHNOLOGICAL REVOLUTION IN WOFSPORTS.docx	              Article 
 
-THE IMPOSSIBLE DREAM.docx	                            Article 
+THE IMPOSSIBLE DREAM.docx	                                Article 
 
-wallno1oct2016.pdf	                                    E-Magazine Chitkara University
+wallno1oct2016.pdf	                                      E-Magazine Chitkara University
   
