@@ -1,8 +1,8 @@
 # ChitkaraUniversity
 
-Internship in the Research department (CURIN) of Chitkara University
+## Internship in the Research department (CURIN) of Chitkara University
 
-During the Internship:
+### During the Internship:
 
 ASHISH.docx	                            	Final Training Report
 
@@ -10,13 +10,14 @@ Cloudbigdataanalytics.docx	            	Research Paper
 
 Data Analysis.pptx                      	Final Project Presenatation
 
-Data Analysis Project using R:
+### Data Analysis Project using R:
 
-Team Memebers: Ashish Soni and Alisha Mehta
+### Team Memebers: Ashish Soni and Alisha Mehta
 
-Source of Data :The Heart Disease dataset (South Africa) 
+### Source of Data :The Heart Disease dataset (South Africa) 
 
-Task: Find out how age and habits of a person can lead to the risk of a heart disease.
+### Task: 
+Find out how age and habits of a person can lead to the risk of a heart disease.
 
 The responsibilities in the whole process of Data Analysis and creating Data visulaizations were shared equally among the team members. 
 
@@ -28,7 +29,7 @@ The responsibilities in the whole process of Data Analysis and creating Data vis
 
 
 
-Work done During the course: 
+### Work done During the course: 
 
 Big Data-research paper.docx	                            Research paper for a conference 
 
