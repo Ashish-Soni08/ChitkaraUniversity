@@ -4,11 +4,13 @@ Internship in the Research department (CURIN) of Chitkara University
 
 During the Internship:
 
-ASHISH.docx	                            Final Training Report
+ASHISH.docx	                            	Final Training Report
 
-Cloudbigdataanalytics.docx	            Research Paper 
+Cloudbigdataanalytics.docx	            	Research Paper 
 
-Data Analysis.pptx                      Final Presenatation
+Data Analysis.pptx                      	Final Presenatation
+
+
 
 
 
@@ -19,9 +21,9 @@ Big Data-research paper.docx	                            Research paper for a co
 
 Big Data.pptx	                                            Presentation for the conference
 
-TECHNOLOGICAL REVOLUTION IN WOFSPORTS.docx	              Article 
+TECHNOLOGICAL REVOLUTION IN WOFSPORTS.docx	            Article 
 
-THE IMPOSSIBLE DREAM.docx	                                Article 
+THE IMPOSSIBLE DREAM.docx	                            Article 
 
-wallno1oct2016.pdf	                                      E-Magazine Chitkara University
+wallno1oct2016.pdf	                                    E-Magazine Chitkara University
   
