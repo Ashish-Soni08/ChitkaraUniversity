@@ -4,11 +4,11 @@
 
 ### During the Internship:
 
-ASHISH.docx	                            	Final Training Report
+ASHISH.docx	                            	
 
-Cloudbigdataanalytics.docx	            	Research Paper 
+Cloudbigdataanalytics.docx	            	
 
-Data Analysis.pptx                      	Final Project Presenatation
+Data Analysis.pptx                      	
 
 ### Data Analysis Project using R:
 
@@ -26,18 +26,15 @@ The responsibilities in the whole process of Data Analysis and creating Data vis
 
 
 
-
-
-
 ### Work done During the course: 
 
-Big Data-research paper.docx	                            Research paper for a conference 
+Big Data-research paper.docx	                           
 
-Big Data.pptx	                                            Presentation for the conference
+Big Data.pptx	                                            
 
-TECHNOLOGICAL REVOLUTION IN WOFSPORTS.docx	              Article 
+TECHNOLOGICAL REVOLUTION IN WOFSPORTS.docx	              
 
-THE IMPOSSIBLE DREAM.docx	                                Article 
+THE IMPOSSIBLE DREAM.docx	                                
 
-wallno1oct2016.pdf	                                      E-Magazine Chitkara University
+wallno1oct2016.pdf	                                      
   
