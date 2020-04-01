@@ -26,7 +26,9 @@ The responsibilities in the whole process of Data Analysis and creating Data vis
 
 
 
-During the course: 
+
+
+Work done During the course: 
 
 Big Data-research paper.docx	                            Research paper for a conference 
 
