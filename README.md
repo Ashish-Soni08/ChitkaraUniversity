@@ -18,6 +18,8 @@ Source of Data :The Heart Disease dataset (South Africa)
 
 Task: Find out how age and habits of a person can lead to the risk of a heart disease.
 
+The responsibilities in the whole process of Data Analysis and creating Data visulaizations were shared equally among the team members. 
+
 
 
 
