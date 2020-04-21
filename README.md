@@ -19,7 +19,7 @@ Data Analysis.pptx
 ### Task: 
 Find out how age and habits of a person can lead to the risk of a heart disease.
 
-The responsibilities in the whole process of Data Analysis and creating Data visulaizations were shared equally among the team members. 
+The responsibilities in the whole process of Data Analysis and creating Data visualizations were shared equally among the team members. 
 
 
 
